@@ -8,7 +8,7 @@
 
 - Click here for [requirement](https://miralab.ai/course/ml_2021fall/).  
 
-- The [File](https://github.com/PkGU/assets/blob/main/DQN.7z) submitted on 2022.01.24   
+- The [.7z File](https://github.com/PkGU/assets/blob/main/DQN.7z) submitted on 2022.01.24   
 
 - A refinement to this DQN and a generalized experiment to more enviroments will be soon arranged.
 
